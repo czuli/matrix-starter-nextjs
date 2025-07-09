@@ -12,7 +12,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <h2 className="my-4">Hi Buddy!</h2>
+        <h2 className="my-4 text-2xl text-blue-200">Hello World!</h2>
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
             Get started by editing{" "}
